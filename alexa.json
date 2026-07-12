@@ -83,6 +83,19 @@
                     ]
                 },
                 {
+                    "name": "NaviSonicShufflePlaylist",
+                    "slots": [
+                        {
+                            "name": "playlist",
+                            "type": "playlist_names"
+                        }
+                    ],
+                    "samples": [
+                        "Shuffle the {playlist} playlist",
+                        "Shuffle the playlist {playlist}"
+                    ]
+                },
+                {
                     "name": "NaviSonicSongDetails",
                     "slots": [],
                     "samples": [
